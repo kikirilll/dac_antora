@@ -1,0 +1,5 @@
+name: This is a POC for DaC using Antora
+version: ~
+title: Some title
+nav:
+- modules/ROOT/nav.adoc
