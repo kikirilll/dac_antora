@@ -1,5 +1,5 @@
 name: docs_as_code
-version: ~
+version: 'new_doc'
 title: Project documentation
 nav:
 - modules/ROOT/nav.adoc
