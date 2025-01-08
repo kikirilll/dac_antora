@@ -1,2 +1,3 @@
 * xref:new_page.adoc[New page]
 * xref:another_page.adoc[Another page]
+* xref:new_doc.adoc[New doc i've addedd]
