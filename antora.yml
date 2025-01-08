@@ -1,4 +1,4 @@
-name: This is a POC for DaC using Antora
+name: docs_as_code
 version: ~
 title: Some title
 nav:
