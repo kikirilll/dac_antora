@@ -1,0 +1,21 @@
+= this is user API documentation
+:toc:
+// :link: index.html[Вернуться к оглавлению]
+:revnumber: 1.0
+:revdate: 24.12.24
+// В каждом файле AsciiDoc (или через документ сверху):
+
+
+this is user manual documentation.
+This is an interactive editor.
+Use it to try https://asciidoc.org[AsciiDoc].
+
+== Section Title
+
+* A list item
+* Another list item
+
+[,python]
+----
+puts 'Hello, World!'
+----

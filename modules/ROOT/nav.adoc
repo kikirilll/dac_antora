@@ -1,1 +1,2 @@
-* xref:new_page.adoc[new page]
+* xref:new_page.adoc[New page]
+* xref:another_page.adoc[Another page]
