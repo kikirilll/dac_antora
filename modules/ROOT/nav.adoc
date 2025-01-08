@@ -1,1 +1,1 @@
-* xref:pages/new_page.adoc[]
+* xref:pages/new_page.adoc[new page]
